@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1643769805 source:d:\embedded track\[10]arm\project_stm32cube\pcbootloader\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OTA_PC_lib.h"
+	"rs232.h"
+
+1628837522 source:d:\embedded track\[10]arm\project_stm32cube\pcbootloader\rs232\rs232.c
+	"rs232.h"
+
+1628837522 d:\embedded track\[10]arm\project_stm32cube\pcbootloader\rs232\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1643760711 d:\embedded track\[10]arm\project_stm32cube\pcbootloader\ota_pc_lib.h
+	<stdint.h>
+
+1643753294 source:d:\embedded track\[10]arm\project_stm32cube\pcbootloader\rs232.c
+	"rs232.h"
+
+1628837522 d:\embedded track\[10]arm\project_stm32cube\pcbootloader\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1643771556 source:d:\embedded track\[10]arm\project_stm32cube\pcbootloader\ota_pc_lib.c
+	"OTA_PC_lib.h"
+	"rs232.h"
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
+1643771886 source:d:\courses\embedded track\[10]arm\project_stm32cube\pcbootloader\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OTA_PC_lib.h"
+	"rs232.h"
+
+1643760711 d:\courses\embedded track\[10]arm\project_stm32cube\pcbootloader\ota_pc_lib.h
+	<stdint.h>
+
+1628837522 d:\courses\embedded track\[10]arm\project_stm32cube\pcbootloader\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1643771556 source:d:\courses\embedded track\[10]arm\project_stm32cube\pcbootloader\ota_pc_lib.c
+	"OTA_PC_lib.h"
+	"rs232.h"
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
+1643753294 source:d:\courses\embedded track\[10]arm\project_stm32cube\pcbootloader\rs232.c
+	"rs232.h"
+

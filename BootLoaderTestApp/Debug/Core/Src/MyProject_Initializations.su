@@ -1,0 +1,5 @@
+MyProject_Initializations.c:16:6:SystemClock_Config	88	static,ignoring_inline_asm
+MyProject_Initializations.c:62:6:MX_USART1_UART_Init	8	static,ignoring_inline_asm
+MyProject_Initializations.c:95:6:MX_USART2_UART_Init	8	static,ignoring_inline_asm
+MyProject_Initializations.c:128:6:MX_GPIO_Init	56	static
+MyProject_Initializations.c:171:6:Error_Handler	0	static,ignoring_inline_asm

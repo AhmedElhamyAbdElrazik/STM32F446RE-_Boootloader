@@ -1,0 +1,2 @@
+main.c:11:5:main	32	static
+main.c:52:5:__io_putchar	16	static

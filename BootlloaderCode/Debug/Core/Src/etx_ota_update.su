@@ -1,0 +1,2 @@
+etx_ota_update.c:311:13:etx_ota_send_resp	24	static
+etx_ota_update.c:39:13:etx_ota_download_and_flash	72	static
